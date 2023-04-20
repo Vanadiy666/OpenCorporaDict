@@ -2,8 +2,8 @@
 ## Introduction
 It's a Morphological analyze library based on the OpenCorpora dictionary.
 Project contains:
-- library that implements morphological parsing based on the OpenCorpora dictionary.
-The library is simple, it loads all the necessary dictionary data into RAM (about 1.5 gigabytes) and it takes about a minute for the initial download.
+- library that implements morphological parsing based on the [OpenCorpora dictionary](http://opencorpora.org).
+The library is simple, it loads all the necessary dictionary data (xml format) into RAM (about 1.5 gigabytes) and it takes about a minute for the initial download.
 The library does not solve the problem of ambiguity and the presence of the letters "е"/"ё" in words;
 - test application that demonstrates the functionality of the library.
 ## Project build
