@@ -10,3 +10,7 @@ The library does not solve the problem of ambiguity and the presence of the lett
 The Qbs build system was used with the help of QtCreator IDE.
 Project build tested under msvc 16.11 and mingv 11.2.0 compilers using qt 6.2.4.
 And i think, it can be build under gcc and clang compilers too.
+## Launch of MorphologicalDictionarySimpleGui test application
+- pass as a start parameter in the console the absolute path to the xml data of the OpenCorpora dictionary;
+- wait for 1-2 minutes of loading;
+- use.
