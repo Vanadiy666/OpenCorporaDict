@@ -1,5 +1,7 @@
 # OpenCorporaDict
 ## Introduction
+This is the solution to a test task that I once completed. This project is not a finished product or final solution.
+
 It's a Morphological analyze library based on the OpenCorpora dictionary.
 Project contains:
 - library that implements morphological parsing based on the [OpenCorpora dictionary](http://opencorpora.org).
